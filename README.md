@@ -1,7 +1,7 @@
 # Hacktober-2k18
 A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k18). The purpose of this repo is for MC members and everyone who wants to join to get into the open source community and help them develop and share projects and knowledge while having a fun challenge !!
 
-## Micro Club Members Contributors
+## Micro Club Repository Contributors
 
 * MKHTARI A. Islem (Wizard)
 * ADD your name here
