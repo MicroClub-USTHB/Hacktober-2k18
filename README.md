@@ -5,12 +5,14 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 
 * MKHTARI A. Islem (Wizard)
 * OUCHAOU Linda
+* Add your name here
 
 ### Projects: 
 
 * Web (Simple HTML5/JS implementation)
 * Blender (3D scene model)
 * Github
+* TimerZegaming2018
 * Add your project's name to the list
 
 ### Technologies & IDE: 
