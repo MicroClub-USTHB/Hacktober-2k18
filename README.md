@@ -4,6 +4,8 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 ## Micro Club Repository Contributors
 
 * MKHTARI A. Islem (Wizard)
+* BENMERIDJA Alla
+* HANNOUN Abdaldjallil
 * ADD your name here
 
 ### Projects: 
@@ -11,6 +13,7 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 * Web (Simple HTML5/JS implementation)
 * Blender (3D scene model)
 * Github
+* Analyseur lexical syntaxique semantique
 * Add your project's name to the list
 
 ### Technologies & IDE: 
@@ -25,4 +28,7 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 * JavaScript
 * HTML
 * CSS
+* Flex
+* Bison
+* C
 * Add a language used in the Contribution
