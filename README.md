@@ -3,7 +3,7 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 
 ## Micro Club Repository Contributors
 
-* MKHTARI A. Islem (Wizard)
+* MOKHTARI A. Islem (Wizard)
 * OUCHAOU Linda
 * BENMERIDJA Alla
 * HANNOUN Abdaldjallil
