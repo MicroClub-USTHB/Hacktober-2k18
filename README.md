@@ -36,4 +36,6 @@ A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k1
 * Flex
 * Bison
 * C
+* Java
+* Swing
 * Add a language used in the Contribution
