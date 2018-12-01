@@ -1,5 +1,8 @@
 # Hacktober-2k18
+![alt text](https://www.pixenli.com/image/RLDjdXAS)
 A Repository for Micro Club members dedicated for Hacktoberfest 5th edition (2k18). The purpose of this repo is for MC members and everyone who wants to join to get into the open source community and help them develop and share projects and knowledge while having a fun challenge !!
+
+![alt text](https://www.pixenli.com/image/5Hp_uXym)
 
 ## Micro Club Repository Contributors
 
